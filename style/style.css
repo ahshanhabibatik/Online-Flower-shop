@@ -342,3 +342,43 @@
     align-items: center;
 
 }
+
+/* footer section css code start */
+
+.footer-container {
+    width: auto;
+    height: 449px;
+    background: #111010;
+}
+
+.footer-item {
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 130px;
+
+}
+
+.footer-title {
+    font-size: 48px;
+    font-weight: 800;
+    padding: 10px;
+
+}
+
+.title-color {
+    color: #E55473;
+}
+
+.footer-discription {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    padding: 10px;
+
+
+}
+
+.copy {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    padding: 10px;
+}
